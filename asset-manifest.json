@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.53c3e60c.css",
-    "main.js": "/static/js/main.705ff80c.js",
+    "main.css": "/static/css/main.68293220.css",
+    "main.js": "/static/js/main.ed5f9b79.js",
     "static/media/Pranav_Chaudhary_P_img.jpg": "/static/media/Pranav_Chaudhary_P_img.f0c8e8b9e72dd4069842.jpg",
     "static/media/drama_t.jpg": "/static/media/drama_t.20df592a645f91966fde.jpg",
     "static/media/web_page.png": "/static/media/web_page.2f7ca36b3fca146a35f6.png",
@@ -16,11 +16,11 @@
     "static/media/favi.png": "/static/media/favi.1fc1f95a380cfd71e6ee.png",
     "static/media/photo_team.jpg": "/static/media/photo_team.2d540a936ef77e352cbf.jpg",
     "index.html": "/index.html",
-    "main.53c3e60c.css.map": "/static/css/main.53c3e60c.css.map",
-    "main.705ff80c.js.map": "/static/js/main.705ff80c.js.map"
+    "main.68293220.css.map": "/static/css/main.68293220.css.map",
+    "main.ed5f9b79.js.map": "/static/js/main.ed5f9b79.js.map"
   },
   "entrypoints": [
-    "static/css/main.53c3e60c.css",
-    "static/js/main.705ff80c.js"
+    "static/css/main.68293220.css",
+    "static/js/main.ed5f9b79.js"
   ]
 }
